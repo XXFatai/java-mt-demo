@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "java-mt-demo",
+    "description": "Deploy java-mt-demo on Heroku.",
+    "keywords": ["java-mt-demo"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,5 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
     "stack": "container"
 }
